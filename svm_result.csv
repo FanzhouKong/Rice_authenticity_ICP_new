@@ -1,0 +1,31 @@
+,number of features,training accuracy,testing accuracy
+0,['Al'],0.4618181818181819,0.25925925925925924
+1,"['Al', 'Rb']",0.7309090909090908,0.5555555555555556
+2,"['Al', 'Rb', 'B']",0.8081818181818182,0.6666666666666666
+3,"['Al', 'Rb', 'B', 'Na']",0.990909090909091,0.9629629629629629
+4,"['Al', 'Rb', 'B', 'Na', 'Sr']",1.0,1.0
+5,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V']",1.0,1.0
+6,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb']",1.0,1.0
+7,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe']",1.0,1.0
+8,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba']",1.0,1.0
+9,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn']",1.0,1.0
+10,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd']",1.0,1.0
+11,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti']",1.0,1.0
+12,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca']",1.0,1.0
+13,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co']",1.0,1.0
+14,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag']",1.0,1.0
+15,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K']",1.0,1.0
+16,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K', 'Ga']",1.0,1.0
+17,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K', 'Ga', 'Ni']",1.0,1.0
+18,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K', 'Ga', 'Ni', 'Cu']",1.0,1.0
+19,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K', 'Ga', 'Ni', 'Cu', 'Mg']",1.0,1.0
+20,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K', 'Ga', 'Ni', 'Cu', 'Mg', 'Ge']",1.0,1.0
+21,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K', 'Ga', 'Ni', 'Cu', 'Mg', 'Ge', 'Cs']",1.0,1.0
+22,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K', 'Ga', 'Ni', 'Cu', 'Mg', 'Ge', 'Cs', 'As']",1.0,1.0
+23,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K', 'Ga', 'Ni', 'Cu', 'Mg', 'Ge', 'Cs', 'As', 'Sc']",1.0,1.0
+24,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K', 'Ga', 'Ni', 'Cu', 'Mg', 'Ge', 'Cs', 'As', 'Sc', 'Pb']",1.0,1.0
+25,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K', 'Ga', 'Ni', 'Cu', 'Mg', 'Ge', 'Cs', 'As', 'Sc', 'Pb', 'Mo']",1.0,1.0
+26,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K', 'Ga', 'Ni', 'Cu', 'Mg', 'Ge', 'Cs', 'As', 'Sc', 'Pb', 'Mo', 'Zn']",1.0,1.0
+27,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K', 'Ga', 'Ni', 'Cu', 'Mg', 'Ge', 'Cs', 'As', 'Sc', 'Pb', 'Mo', 'Zn', 'Hg']",1.0,1.0
+28,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K', 'Ga', 'Ni', 'Cu', 'Mg', 'Ge', 'Cs', 'As', 'Sc', 'Pb', 'Mo', 'Zn', 'Hg', 'Se']",1.0,1.0
+29,"['Al', 'Rb', 'B', 'Na', 'Sr', 'V', 'Nb', 'Fe', 'Ba', 'Mn', 'Cd', 'Ti', 'Ca', 'Co', 'Ag', 'K', 'Ga', 'Ni', 'Cu', 'Mg', 'Ge', 'Cs', 'As', 'Sc', 'Pb', 'Mo', 'Zn', 'Hg', 'Se', 'Cr']",1.0,1.0
