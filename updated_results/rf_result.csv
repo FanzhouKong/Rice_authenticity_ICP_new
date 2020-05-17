@@ -1,0 +1,6 @@
+,number of features,training accuracy,testing accuracy,best params
+0,['Al'],0.536363636,0.62962963,"{'bootstrap': True, 'max_depth': 26, 'max_features': 'auto', 'n_estimators': 100}"
+1,"['Al', 'B']",0.787272727,0.666666667,"{'bootstrap': True, 'max_depth': 26, 'max_features': 'sqrt', 'n_estimators': 200}"
+2,"['Al', 'B', 'Rb']",0.866363636,0.888888889,"{'bootstrap': True, 'max_depth': 101, 'max_features': 'auto', 'n_estimators': 500}"
+3,"['Al', 'B', 'Rb', 'Na']",1,1,"{'bootstrap': True, 'max_depth': 26, 'max_features': 'auto', 'n_estimators': 500}"
+4,"['Al', 'B', 'Rb', 'Na', 'V']",0.99,1,"{'bootstrap': True, 'max_depth': 26, 'max_features': 'auto', 'n_estimators': 200}"

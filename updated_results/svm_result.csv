@@ -1,0 +1,6 @@
+,number of features,training accuracy,testing accuracy,best params
+0,['Al'],0.6409090909090909,0.5555555555555556,"{'degree': 5, 'kernel': 'poly'}"
+1,"['Al', 'B']",0.8272727272727274,0.7407407407407407,"{'C': 100, 'gamma': 1, 'kernel': 'rbf'}"
+2,"['Al', 'B', 'Rb']",0.8663636363636364,0.8888888888888888,"{'C': 10, 'gamma': 1, 'kernel': 'rbf'}"
+3,"['Al', 'B', 'Rb', 'Na']",1.0,1.0,"{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}"
+4,"['Al', 'B', 'Rb', 'Na', 'V']",1.0,1.0,"{'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}"
